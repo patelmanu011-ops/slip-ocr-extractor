@@ -1,0 +1,9 @@
+easyocr
+opencv-python
+pillow
+pandas
+openpyxl
+pdf2image
+PyMuPDF
+customtkinter
+pyinstaller
