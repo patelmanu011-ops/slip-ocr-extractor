@@ -1,8 +1,5 @@
-from gui import OCRApp
 
-def main():
-    app = OCRApp()
-    app.mainloop()
+from gui import *
 
 if __name__ == "__main__":
-    main()
+    root.mainloop()
